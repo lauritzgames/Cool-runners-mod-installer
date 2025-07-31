@@ -1,7 +1,7 @@
 # Cool-runners-mod-installer
 
-So i dont if it requires anything but if then just install nodejs and python thats what i used if it dosent work for you tho this is for the project Cool-tagger Vr it will be a game that allows mods
-to make a mod use cool-tagger init and make sure the command prompt is in admin mode run it as admin if you use vs code or smth run the app as admin instead and then run it to export the mod then use
+So i dont know if it requires anything but if then just install nodejs and python thats what i used if it dosent work for you tho this is for the project Cool-tagger Vr it will be a game that allows mods
+to make a mod use "cool-tagger init" and run it in cmd prompt and make sure the command prompt is in admin mode run it as admin if you use vs code or smth run the app as admin instead and then run it to export the mod then use
 cool-tagger compile <file path or local file path> 
 
 dont touch the main.zip if you dont know how to manual install it i recommend the installer.exe down here
